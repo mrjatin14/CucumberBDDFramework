@@ -1,0 +1,196 @@
+[INFO ] 2023-09-23 12:07:51.294 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 12:07:52.072 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 12:07:55.736 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 12:07:55.966 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 12:07:59.756 [main] StepDefLogin - Clicked on login button
+[INFO ] 2023-09-23 12:08:00.580 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 12:08:01.365 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 12:08:03.579 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 12:08:04.378 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 12:10:13.912 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 12:10:14.704 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 12:10:17.777 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 12:10:17.985 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 12:10:22.356 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 12:10:22.374 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 12:10:24.917 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 12:10:25.039 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 12:10:25.886 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 12:10:26.618 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 12:10:29.883 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 12:10:30.132 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 12:10:34.464 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 12:10:34.481 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 12:10:37.098 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 12:10:37.178 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 12:10:37.934 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 12:10:38.681 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 12:10:41.746 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 12:10:41.997 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 12:10:51.835 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 12:10:51.846 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 12:10:54.263 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 12:10:54.360 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:03:24.557 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:03:25.338 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:03:28.065 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:03:28.420 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:03:29.716 [main] StepDefLogin - Clicked on login button
+[INFO ] 2023-09-23 13:03:30.554 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:03:31.456 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:03:33.679 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:03:34.404 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:16:37.858 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:16:38.722 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:16:43.532 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:16:43.890 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:18:23.334 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:18:23.513 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:18:29.367 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:18:29.638 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:18:30.570 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:18:31.494 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:18:41.377 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:18:41.748 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:19:42.884 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:19:43.032 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:19:52.493 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:19:52.771 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:19:53.585 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:19:54.419 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:20:23.022 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:20:23.373 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:20:38.673 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:20:38.840 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:20:41.839 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:20:42.092 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:26:33.577 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:26:34.464 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:26:53.488 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:26:53.871 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:27:00.943 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:27:01.146 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:27:03.686 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:27:04.112 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:27:04.922 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:27:05.697 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:27:08.302 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:27:08.655 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:27:14.587 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:27:14.756 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:27:17.095 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:27:17.334 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:27:18.154 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:27:18.975 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:27:22.033 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:27:22.384 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:27:32.875 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:27:33.022 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:27:39.353 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:27:39.560 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:30:14.403 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:30:15.135 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:30:17.773 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:30:18.117 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:30:30.333 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:30:30.506 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:30:32.303 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:30:32.600 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:30:33.542 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:30:34.354 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:30:37.815 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:30:38.125 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:30:44.639 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:30:44.816 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:30:46.560 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:30:46.787 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:30:47.565 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:30:48.429 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:30:51.747 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:30:52.127 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:30:57.735 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:30:57.908 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:30:59.908 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:31:00.153 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:32:20.897 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:32:21.703 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:32:24.959 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:32:25.308 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:32:30.126 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:32:30.290 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:32:32.297 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:32:32.527 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:32:33.420 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:32:34.206 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:32:36.836 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:32:37.270 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:33:42.724 [main] StepDefLogin - Clicked on login button
+[INFO ] 2023-09-23 13:33:43.535 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:33:44.395 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:39:39.715 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:39:40.510 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:39:43.768 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:39:44.117 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:39:50.675 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:39:50.840 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:39:52.717 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:39:52.967 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:39:53.831 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:39:54.748 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:40:01.703 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:40:02.056 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:40:06.654 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:40:06.813 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:40:09.412 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:40:09.706 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:40:10.528 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:40:11.420 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:40:14.518 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:40:14.860 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:40:19.500 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:40:19.666 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:40:21.600 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:40:21.825 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:44:31.145 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:44:32.041 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:44:48.009 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:44:48.369 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:45:37.273 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:45:37.472 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:45:40.693 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:45:40.945 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:45:41.837 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:45:42.588 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:45:46.103 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:45:46.477 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:45:50.751 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:45:50.936 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:45:53.799 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:45:54.027 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:45:54.907 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:45:55.729 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:45:58.049 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:56:00.337 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:56:01.381 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:56:04.946 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:56:05.512 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:56:10.576 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:56:10.905 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:56:12.984 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:56:13.312 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:56:14.199 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:56:15.220 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:56:18.643 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:56:19.035 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:56:23.623 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:56:23.909 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:56:25.960 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:56:26.288 [main] StepDefLogin - Browser closed
+[INFO ] 2023-09-23 13:56:27.069 [main] StepDefLogin - setup executes
+[INFO ] 2023-09-23 13:56:27.858 [main] StepDefLogin - chrome browser launched
+[INFO ] 2023-09-23 13:56:30.609 [main] StepDefLogin - url opened
+[INFO ] 2023-09-23 13:56:31.037 [main] StepDefLogin - email address and password entered
+[INFO ] 2023-09-23 13:56:35.706 [main] StepDefLogin - Clicked on login button
+[WARN ] 2023-09-23 13:56:35.972 [main] StepDefLogin - Test passed: Login feature :Page title matched.
+[INFO ] 2023-09-23 13:56:37.646 [main] StepDefLogin - user clicked on logout link.
+[INFO ] 2023-09-23 13:56:37.950 [main] StepDefLogin - Browser closed
